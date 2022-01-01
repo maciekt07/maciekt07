@@ -13,7 +13,7 @@
 </a>
 
 ### i am currently working on 💼
-**Luvia** - my own Visual Studio Code Theme
+**Luvia** - My own Visual Studio Code Theme
 
 </a>
 <a href="https://github.com/anuraghazra/luvia-vsc-theme">
