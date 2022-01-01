@@ -17,5 +17,5 @@
 
 </a>
 <a href="https://github.com/maciekkoks/luvia-vsc-theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
-</a> <img src="https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/petthevsc.gif">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" /><img src="https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/petthevsc.gif">
+</a> 
