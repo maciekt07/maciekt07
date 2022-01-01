@@ -9,12 +9,3 @@
 <a href="https://github.com/anuraghazra/multimedia-buttons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=multimedia-buttons&theme=tokyonight" />
 </a>
-
-
-
-
-
-
-
-
-![random-color](https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=random-color&theme=tokyonight) ![multimedia-buttons](https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=multimedia-buttons&theme=tokyonight)
