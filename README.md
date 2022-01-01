@@ -8,7 +8,7 @@
 <a href="https://github.com/maciekkoks/random-color">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=random-color&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/multimedia-buttons">
+<a href="https://github.com/maciekkoks/Multimedia-Buttons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=multimedia-buttons&theme=tokyonight" />
 </a>
 
@@ -16,6 +16,6 @@
 **Luvia** - My own Visual Studio Code Theme
 
 </a>
-<a href="https://github.com/anuraghazra/luvia-vsc-theme">
+<a href="https://github.com/maciekkoks/luvia-vsc-theme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
 </a>
