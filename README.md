@@ -15,4 +15,7 @@
 ### i am currently working on 💼
 **Luvia** - my own Visual Studio Code Theme
 
-![luvia](https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight)
+</a>
+<a href="https://github.com/anuraghazra/luvia-vsc-theme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
+</a>
