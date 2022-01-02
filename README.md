@@ -19,5 +19,5 @@
 <a href="https://github.com/maciekkoks/luvia-vsc-theme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
   
-  <img style="border-radius:20px;" align="left" src="https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/logo128.png">
+  <img align="left" src="https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/logo128.png">
 </a> 
