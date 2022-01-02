@@ -21,5 +21,10 @@
   
   
   
+  
+  
+  
+  
+  
   <img align="center" src="https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/logo128.png">
 </a> 
