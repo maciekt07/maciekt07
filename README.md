@@ -21,6 +21,4 @@
 </a> 
 
 ### Contact 💌
-Discord: maciek#3387
-
-Mail: maciekt07@gmail.com
+Discord: maciek#3387 <br /> Mail: maciekt07@gmail.com
