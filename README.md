@@ -19,3 +19,7 @@
 <a href="https://github.com/maciekkoks/luvia-vsc-theme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
 </a> 
+
+### Contact 💌
+Discord: maciek#3387
+Mail: maciekt07@gmail.com
