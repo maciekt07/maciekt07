@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciekkoks&show_icons=true&theme=material-palenight" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciekkoks&layout=compact&theme=material-palenight" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciekkoks&show_icons=true&theme=material-palenight" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciekkoks&layout=compact&theme=tokyo-night" />|
 | ------------- | ------------- |
 
 ### Main projects 💗
