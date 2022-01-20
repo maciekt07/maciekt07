@@ -27,6 +27,8 @@
 ### Contact 💌
 Discord: maciek#3387 <br /> Mail: maciekt07@gmail.com
 
+### Spotify Now Playing 🎧
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iz2ocsawfj7y6okfan4rie8fb&cover_image=true&theme=natemoo-re&bar_color=5f3691&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=iz2ocsawfj7y6okfan4rie8fb&redirect=true)
 <a href="https://www.buymeacoffee.com/maciekt07">
 
