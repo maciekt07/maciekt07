@@ -15,7 +15,7 @@
 </a>
 
 ### I'm currently working on 💼
-**Luvia** - Dark Visual Studio Code Theme for those who code at night.
+**Luvia** - Dark Visual Studio Code Theme.
 
 </a>
 <a href="https://github.com/maciekkoks/luvia-vsc-theme">
