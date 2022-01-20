@@ -22,10 +22,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
 </a> 
 
+
+### Spotify Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iz2ocsawfj7y6okfan4rie8fb&cover_image=true&theme=natemoo-re&bar_color=5f3691&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=iz2ocsawfj7y6okfan4rie8fb&redirect=true)
+
 ### Contact 💌
 Discord: maciek#3387 <br /> Mail: maciekt07@gmail.com
 
-<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iz2ocsawfj7y6okfan4rie8fb&cover_image=true&theme=default&bar_color=5f3691&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
