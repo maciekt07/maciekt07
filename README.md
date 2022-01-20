@@ -24,4 +24,3 @@
 
 ### Contact 💌
 Discord: maciek#3387 <br /> Mail: maciekt07@gmail.com
-[![Spotify](https://maciekkoks.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
