@@ -22,6 +22,8 @@
 </a>
 
 ### I'm currently working on 💼
+ 
+ 
 **Luvia** - Dark Visual Studio Code Theme.
 
 </a>
@@ -29,9 +31,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
 </a> 
 
-<br/>
-
-Learning Three.js and blender
 
 ### Contact 💌
 Discord: maciek#3387 <br /> Mail: maciekt07@gmail.com
