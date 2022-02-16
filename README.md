@@ -21,15 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=multimedia-buttons&theme=tokyonight" />
 </a>
 
-### I'm currently working on 💼
- 
- 
-**Luvia** - Dark Visual Studio Code Theme.
 
-</a>
-<a href="https://github.com/maciekkoks/luvia-vsc-theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
-</a> 
 
 
 ### Contact 💌
