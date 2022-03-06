@@ -14,9 +14,16 @@
 
 ### Main projects 💗
 
+ 
+ <a href="https://github.com/maciekkoks/luvia-vscode-theme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vscode-theme&theme=tokyonight" />
+</a>
 <a href="https://github.com/maciekkoks/random-color">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=random-color&theme=tokyonight" />
 </a>
+ 
+ <br />
+ 
 <a href="https://github.com/maciekkoks/Multimedia-Buttons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=multimedia-buttons&theme=tokyonight" />
 </a>
