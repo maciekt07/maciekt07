@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciekkoks&show_icons=true&theme=tokyonight" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciekkoks&layout=compact&theme=tokyonight" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=maciekt07&show_icons=true&theme=tokyonight" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciekt07&layout=compact&theme=tokyonight" />|
 | ------------- | ------------- |
 
 <a href="https://www.buymeacoffee.com/maciekt07" target="_blank">
