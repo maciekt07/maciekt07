@@ -10,18 +10,21 @@
 
 ### Main projects 💗
 
- <a href="https://github.com/maciekkoks/random-color">
+ <a href="https://github.com/maciekt07/random-color">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=random-color&theme=tokyonight" />
 </a>
- <a href="https://github.com/maciekkoks/luvia-vscode-theme">
+ <a href="https://github.com/maciekt07/luvia-vscode-theme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=luvia-vscode-theme&theme=tokyonight" />
 </a>
 
  
  <br />
  
-<a href="https://github.com/maciekkoks/Multimedia-Buttons">
+<a href="https://github.com/maciekt07/Multimedia-Buttons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=multimedia-buttons&theme=tokyonight" />
+</a>
+<a href="https://github.com/maciekt07/RGB-to-HEX-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=RGB-to-HEX-Game&theme=tokyonight" />
 </a>
 
 
