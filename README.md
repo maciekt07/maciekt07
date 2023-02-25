@@ -30,9 +30,4 @@
 
 
 
-### Contact 💌
-Discord: maciek#3387
-
-
-
 
