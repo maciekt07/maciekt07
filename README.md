@@ -21,10 +21,10 @@
  <br />
  
 <a href="https://github.com/maciekt07/Multimedia-Buttons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=multimedia-buttons&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=clicker-game&theme=tokyonight" />
 </a>
 <a href="https://github.com/maciekt07/RGB-to-HEX-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=RGB-to-HEX-Game&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekt07&repo=notifications-react&theme=tokyonight" />
 </a>
 
 
