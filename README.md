@@ -6,7 +6,7 @@
 ## 💻 Technologies
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,vscode,git,github,css,sass,styledcomponents,materialui,supabase,figma,blender," />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,git,github,css,sass,styledcomponents,materialui,supabase,vscode,figma,blender," />
   </a>
 
 <br/><br/>
