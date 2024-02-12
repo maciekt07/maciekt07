@@ -11,7 +11,7 @@
 ## 💻 Technologies
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,git,github,css,sass,styledcomponents,materialui,supabase,vscode,figma,blender&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,styledcomponents,sass,materialui,supabase,git,github,vscode,figma,blender&perline=7" />
   </a>
 
 <br/><br/>
