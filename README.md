@@ -11,10 +11,10 @@
 ## 💻 Technologies
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,styledcomponents,sass,materialui,supabase,git,github,vscode,figma,blender&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,tailwind,styledcomponents,sass,materialui,supabase,mongodb,git,github,vscode,figma,blender&perline=8" />
   </a>
 
-<br/><br/>
+<br />
 <a href="https://www.buymeacoffee.com/maciekt07" target="_blank">
  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1a1b27&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 </a>
